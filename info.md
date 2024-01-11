@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 ---
 
 ### How to get to Murcia?
