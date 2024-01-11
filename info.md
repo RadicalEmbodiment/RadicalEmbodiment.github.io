@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Practical Information
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### How to get to Murcia?
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- **From Europe:** Best option is to fly to the Alicante Airport (ALC) or the Murcia Airport (RMU) and then getting to the city via bus or train. The commute from ALC is ∼45 minutes; the commute from RMU is ∼25 minutes.
+- **From Outside Europe:** Getting to the Alicante Airport (ALC) is still the best option. If not possible, the best option is to fly to Madrid and take a train from Madrid to Murcia (∼3 hours). 
+- **From Spain:** Multiple options via flights, trains, and road.
 
-What else do you need?
+### More information about lodging and places to eat coming soon...
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
