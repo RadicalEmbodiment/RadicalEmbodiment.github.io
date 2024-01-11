@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ## Practical Information
 ---
 
 ### How to get to Murcia?
