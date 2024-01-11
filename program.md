@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program
+subtitle: Program
 ---
 
 ### Coming soon...
