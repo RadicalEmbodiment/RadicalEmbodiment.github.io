@@ -8,6 +8,7 @@ layout: page
 - **From Outside Europe:** Getting to the Alicante Airport (ALC) is still the best option. If not possible, the best option is to fly to Madrid and to take a train from Madrid to Murcia (∼3 hours). 
 - **From Spain:** Multiple options via flights, trains, and road.
 
+[]
 
 ### More information about lodging and places to eat coming soon...
 
