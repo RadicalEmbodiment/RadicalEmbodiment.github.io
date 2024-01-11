@@ -10,6 +10,6 @@ title: Practical Info
 - **From Spain:** Multiple options via flights, trains, and road.
 
 
-### More information about lodging and places to eat coming soon...
+#### More information about lodging and places to eat coming soon...
 
 
