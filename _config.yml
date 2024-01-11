@@ -20,9 +20,9 @@ author: Vicente Raja
 ###############################################
 
 navbar-links:
-  Program: "aboutme"
-  Practical Info: "information"
-  Call for Contributions: "information"
+  Program: "program"
+  Practical Info: "aboutme"
+  Call for Contributions: "aboutme"
   
 
 ################
